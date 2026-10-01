@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ash 👋
 
-<!--
-**AshACxx/AshACxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year Data Science & AI Engineering student at TU Dublin.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in Data Analytics, Machine Learning and AI
+- Currently building data and AI projects
+- Mainly working with Python and SQL
+- Looking for internship opportunities in Data Science, Analytics and ML
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,tensorflow,git,github,docker" />
+</p>
+
+## Featured Projects
+
+### 🤖 AI Study Assistant
+RAG-based application that lets users upload PDFs and ask questions based on the document content.
+
+**Tech:** Python, Streamlit, LangChain, ChromaDB, Hugging Face, Ollama
+
+### 🗄️ Natural Language SQL Agent
+Converts natural-language questions into SQL queries with schema inspection and query safety checks.
+
+**Tech:** Python, SQL, SQLite
+
+### 📊 Customer Churn Prediction
+Machine-learning project focused on predicting customer churn using customer data.
+
+**Tech:** Python, Pandas, Scikit-learn, Matplotlib
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+</p>
