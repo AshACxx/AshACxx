@@ -12,7 +12,7 @@ Third-year Data Science & AI Engineering student at TU Dublin.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,tensorflow,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,tensorflow,git,github" />
 </p>
 
 ## Featured Projects
@@ -35,5 +35,5 @@ Machine-learning project focused on predicting customer churn using customer dat
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshACxx&show_icons=true&theme=github_dark" />
 </p>
